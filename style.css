@@ -58,14 +58,12 @@ ul > li {
   width: 100px;
 }
 .imageList {
-  xborder: 1px solid red;
   width: 900px;
   margin-left: auto;
   margin-right: auto;
   margin-top: 10px;
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-between;
 }
 
 .imageList > .x {
@@ -76,7 +74,6 @@ ul > li {
 .image {
   width: 216px;
   height: 216px;
-  xborder: 1px solid gray;
   margin-bottom: 10px;
   background: rgb(99, 69, 69);
   margin-right: 12px;
